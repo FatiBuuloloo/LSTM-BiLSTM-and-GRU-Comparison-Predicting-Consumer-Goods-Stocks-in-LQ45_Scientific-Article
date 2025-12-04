@@ -1,0 +1,1 @@
+# Perbandingan-Model-LSTM-BiLSTM-dan-GRU-dalam-Prediksi-Saham-Sektor-Consumer-Goods

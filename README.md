@@ -1,9 +1,8 @@
-# Perbandingan-Model-LSTM-BiLSTM-dan-GRU-dalam-Prediksi-Saham-Sektor-Consumer-Goods
+# LSTM, BiLSTM, and GRU Comparison Predicting Consumer Goods Stocks in LQ45_Scientific Article
 
-Repositori ini berisi implementasi penelitian komparatif antara tiga arsitektur deep learning populer untuk peramalan deret waktu (time-series forecasting), yaitu **LSTM**, **Bidirectional LSTM (BiLSTM)**, dan **GRU**. Proyek ini dilakukan sebagai bagian dari penelitian yang dipresentasikan pada **IC-MaGeStic 2025** dan dipublikasikan dalam **AIP Conference Proceedings**.
+This repository contains the implementation of a comparative study involving three popular deep learning architectures for time-series forecasting: LSTM, Bidirectional LSTM (BiLSTM), and GRU. This project was conducted as part of a research study presented at IC-MaGeStic 2025 and published in the AIP Conference Proceedings.
 
-Tujuan utama penelitian ini adalah mengevaluasi performa masing-masing arsitektur dalam memprediksi pola deret waktu serta mengidentifikasi model yang paling efektif berdasarkan metrik kuantitatif.
-
-## Tujuan Penelitan
-- Membandingkan performa LSTM, BiLSTM, dan GRU pada tugas time-series forecasting.  
-- Menganalisis hasil evaluasi berdasarkan metrik error seperti **Coefficient of Determination(R^2)**, **RMSE**, dan **MAPE**.  
+The main objective of this research is to evaluate the performance of each architecture in forecasting time-series patterns and to identify the most effective model based on quantitative metrics.
+Research Objectives
+- Compare the performance of LSTM, BiLSTM, and GRU in time-series forecasting tasks.
+- Analyze evaluation results using error metrics such as Coefficient of Determination (R²), RMSE, and MAPE.
